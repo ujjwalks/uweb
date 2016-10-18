@@ -1,1 +1,1 @@
-web: gunicorn uweb.wsgi
+web: gunicorn uweblog.wsgi
